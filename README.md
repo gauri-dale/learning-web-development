@@ -1,4 +1,4 @@
-# 🛒 Full-Stack E-Commerce Roadmap (2025-Ready)
+# 🛒 Full-Stack E-Commerce Roadmap
 
 This repository documents my **3-month journey** to build and launch a full-stack e-commerce store using the **modern web stack**:  
 **Next.js (15+) + TypeScript + Tailwind CSS + Prisma + NextAuth + Stripe/Razorpay.**
