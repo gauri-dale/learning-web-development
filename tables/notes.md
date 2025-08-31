@@ -13,3 +13,4 @@
 -`align` in the <tr> tag. can be center, left, right \
 
 -`border` in the <table> tag
+
