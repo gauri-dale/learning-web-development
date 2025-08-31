@@ -54,3 +54,11 @@ Used to get user feedback or comment.
 
     To adjust area of this text:
         -`rows = " "` or `cols= " "`
+
+## For File Submission
+Used so that user is able to submit files/documents
+    `<input type="file">`
+
+By default, all file types are accepted. But to limit the types of files that are acceptable:
+    `accept` attribute is used. \
+     - accept="image/png, image/jpeg"
