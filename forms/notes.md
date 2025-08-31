@@ -3,13 +3,14 @@
 
 - `action` attribute determines what location the form is sent to after submitting. \
 
--`method` attribute species whether this is a GET request or a POST request. \
-POST is used for **confidential information** i.e. username and password.
+- `method` attribute species whether this is a GET request or a POST request. \
+POST is used for **confidential information** i.e. username and password.\
 GET is used for **insensitive data**
 
 # Elements in a Form
 
 -`<input>` (self-closing) is used to create a TEXT BOX by default unless specified (such as passwords, emails, phone no.). \
+
     - `id` attribute specifies a unique identifier for an HTML element within a document. Same value as the for attribute. \ 
 
     - `required` attribute means that the text box cannot be NULL or blank. \
