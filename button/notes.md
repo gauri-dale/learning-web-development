@@ -6,3 +6,4 @@ Use the `<button></button>` tag.
 -`background-color`: to change background color. \
 -`color`: to change font color. \
 -`border-radius`: to change the sharpness or roundness of the corners the button. \
+-`href`: to direct the user to the specified url upon clicking.
