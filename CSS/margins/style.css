@@ -6,7 +6,7 @@ body{
     font-size: 5em;
     width: 250px;
     height: 250px;
-    margin: 50px;
+    margin: auto;
 }
 #box1{
     background-color: hsla(0, 100%, 50%, 0.981) ;
