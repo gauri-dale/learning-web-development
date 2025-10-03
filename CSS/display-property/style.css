@@ -1,0 +1,41 @@
+div{
+    background-color: hsl(18, 77%, 51%);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    visibility: hidden /* similar to none but the element still takes up space, it just isn't visible */
+
+}
+#span1{
+    background-color: rgb(140, 205, 240);
+    width: 100px;
+    height: 100px; /* width and height doesn't apply to span as it is an inline element */
+
+}
+#span2{
+     background-color: rgb(140, 205, 240);
+    width: 100px;
+    height: 100px; 
+    display: block; /* But it will apply, if we set the display element to block-level */
+}
+#span3{
+     background-color: rgb(140, 205, 240);
+    width: 100px;
+    height: 100px; 
+    display: inline; /* this element is now on the same line as the text */
+
+}
+#span4{
+     background-color: rgb(140, 205, 240);
+    width: 100px;
+    height: 100px; 
+    display: inline-block; /* this element is on the same line as the text but it will also be affected by the height and width properties */
+    
+}
+#span5{
+     background-color: rgb(140, 205, 240);
+    width: 100px;
+    height: 100px; 
+    display: none; /*the element will not be displayed*/
+    
+}
