@@ -1,7 +1,7 @@
 # Display property
 The property specifies if/how an element is displayed.
 
-2 Display values:
+3 Display values:
 
 1. `block-level`: 
     - default value
@@ -13,3 +13,6 @@ The property specifies if/how an element is displayed.
     - does not start on a new line
     - width is limited to what is needed 
     - few examples of inline elements: span, a, img
+
+3. `none`:
+    - it will not display the element
