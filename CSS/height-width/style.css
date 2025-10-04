@@ -1,11 +1,18 @@
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; /* takes into account the padding and border */
+}
+.container{
+    background-color: grey;
+    height: 100vh; /* viewport height: takes up the height of the entire viewport */
 }
 .box{
+    background-color: white;
     border: 2px solid;
     padding: 25px;
-
     height: auto;
     width: 50%;
     float: left;
+    text-align: center;
+
+    min-height: 50%
 }
