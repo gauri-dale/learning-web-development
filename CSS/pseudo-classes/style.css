@@ -19,6 +19,7 @@ li:not(:hover){ /*not pseudo-class: selecting everything that is not being hover
     background-color: rgb(211, 211, 211);
 
 }
+
 #greeting p{
     background-color: hsl(204, 100%, 70%);
     padding: 10px;

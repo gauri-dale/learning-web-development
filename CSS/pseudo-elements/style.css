@@ -1,0 +1,29 @@
+h1::first-letter{
+    font-size: 2em;
+    font-style: italic;
+
+}
+p::first-line{
+    background-color: hsl(60, 100%, 77%);
+}
+p::selection{
+    color: hsl(103, 61%, 46%);
+    background-color: hsl(120, 98%, 16%);
+}
+/* #fruit li::before{
+    content: "✔️";
+} */
+#apple::after{
+    content: "🍎";
+}
+#orange::after{
+    content: "🍊";
+}
+#banana::after{
+    content: "🍌";
+}
+#fruit li::marker{ /*the default marker for an unordered list is a bullet point, but we can change that */
+    content: "✔️";
+    color: hsl(120, 93%, 35%);
+    font-size: 1.2em;
+}

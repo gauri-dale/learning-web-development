@@ -21,6 +21,9 @@ Code
 
 6. `:nth-child(n)`: Selects elements based on their position within a parent, where 'n' can be a number, a keyword like 'odd' or 'even', or a formula. \
 
+- n -> even/odd: to select every even/odd element. \
+- n -> 3n: for every 3rd element (it can be any number)
+
 Code
 
     p:nth-child(2n) {
