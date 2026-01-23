@@ -4,12 +4,12 @@ A `hyperlink` is a digital reference to data that the user can follow or be guid
 
 # To create a Hyperlink
 
-- <a> </a>
+- `<a></a>`
 - "a" means anchor.
 
 # Some attributes that you can use under the anchor tag
 - `href` (hypertext reference) is an attribute. An attribute is a name-value pair that modifies the behaviour of an element. Paste an URL of the website to which you want the user to be guided to.
-'<a href = ""> </a>
+`<a href = ""> </a>`
 
 - `target` specifies where to open the linked document or where to display the response after submitting a form. \
 <hr><br>
